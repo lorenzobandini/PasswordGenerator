@@ -1,3 +1,8 @@
-# Generatore Password
+# Password Generator
 
-Questo programma permette di generare password casuali di lunghezza variabile con o senza minuscole, maiuscole e numeri.
+This program can generate a password of a given length and allows the user to choose whether to include:
+
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Special characters
